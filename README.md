@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @piyush52dixit
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML | CSS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me piyushdixit567@gmail.com
 
 <!---
