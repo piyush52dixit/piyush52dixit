@@ -7,6 +7,9 @@
 
 
 
+
+![Dark Blue and white Bright Modern General Linkedin Article Cover Image](https://github.com/piyush52dixit/piyush52dixit/assets/138889876/c26fe8ea-e59a-464a-9ec4-048a66c0e50c)
+
 - 🌱 I’m currently learning **Next js**
 
 - 💬 Ask me about **HTML ,CSS , JS**
