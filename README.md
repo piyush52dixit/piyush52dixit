@@ -1,7 +1,7 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=piyush52dixit&label=Profile%20views&color=0e75b6&style=flat" alt="piyush52dixit" /> </p>
 
 ![Dark Blue and white Bright Modern General Linkedin Article Cover Image](https://github.com/piyush52dixit/piyush52dixit/assets/138889876/1913a9c0-97b1-4982-994f-0cae6030f459)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush52dixit&label=Profile%20views&color=0e75b6&style=flat" alt="piyush52dixit" /> </p>
 
 
 - 🌱 I’m currently learning **Backend**
