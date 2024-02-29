@@ -8,7 +8,6 @@
 
 - 💬 Ask me about **Reactjs, Nextjs , Js**
 
-- 📫 How to reach me **piyushdixit567@gmail.com**
 
 - ⚡ Fun fact **I love Vanilla Ice-cream with Coke**
 
