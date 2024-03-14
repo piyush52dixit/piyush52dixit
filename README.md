@@ -1,5 +1,5 @@
 
-![Dark Blue and white Bright Modern General Linkedin Article Cover Image (9)](https://github.com/piyush52dixit/piyush52dixit/assets/138889876/777bf917-4393-454f-82be-51c04d69fd6f)
+![Dark Blue and white Bright Modern General Linkedin Article Cover Image (11)](https://github.com/piyush52dixit/piyush52dixit/assets/138889876/7fba35fb-9087-4c3d-9c67-fd4ae9da59d9)
 
 
 
