@@ -1,5 +1,7 @@
 
-eneral Linkedin Article Cover Image](https://github.com/piyush52dixit/piyush52dixit/assets/138889876/1913a9c0-97b1-4982-994f-0cae6030f459)
+![Dark Blue and white Bright Modern General Linkedin Article Cover Image (9)](https://github.com/piyush52dixit/piyush52dixit/assets/138889876/777bf917-4393-454f-82be-51c04d69fd6f)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush52dixit&label=Profile%20views&color=0e75b6&style=flat" alt="piyush52dixit" /> </p>
 
