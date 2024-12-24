@@ -46,6 +46,17 @@ Here are the languages and tools I work with:
   </a>
 </p>
 
+## 🛠️ My Skills
+
+| **Skill**             | **Proficiency**  | **Tools/Technologies**                          |
+|-----------------------|------------------|------------------------------------------------|
+| **Frontend Development** | Advanced        | React.js, Next.js, HTML5, CSS3, Sass           |
+| **Backend Development**  | Intermediate    | Node.js, Express.js                            |
+| **State Management**     | Intermediate    | Redux                                          |
+| **Database**             | Intermediate    | MySQL                                          |
+| **JavaScript**           | Advanced        | JavaScript                                     |
+| **Version Control**      | Advanced        | Git, GitHub                                    |
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -62,4 +73,3 @@ Here are the languages and tools I work with:
 
 ---
 
-Feel free to reach out to me if you want to discuss any projects or just have a chat. Happy coding! 💻🚀
