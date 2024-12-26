@@ -24,5 +24,5 @@ Here are the languages and tools I work with:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush52dixit&" alt="piyush52dixit" style="width: 50vw; height: 100%; object-fit: cover;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush52dixit&show_icons=true&locale=en&layout=compact" alt="piyush52dixit" style="width: 50vw; height: 100%; object-fit: cover;" />
 </div>
----
+--
 
